@@ -1,0 +1,26 @@
+/* FOOTER */
+.footer {
+    background-color: #2a3824;
+    color: white;
+}
+
+.table {
+    color: white;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.servicios {
+    background-color: rgb(234, 234, 234);
+}
+
+.navbar-nav {
+    margin-left: 40rem;
+    font-weight: bold;
+}
+
+.navbar-nav a:hover {
+    color: #648c28;
+}
